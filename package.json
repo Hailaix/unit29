@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hailaix/unit29/issues"
   },
-  "homepage": "https://github.com/Hailaix/unit29#readme"
+  "homepage": "https://github.com/Hailaix/unit29#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
