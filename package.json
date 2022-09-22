@@ -1,0 +1,19 @@
+{
+  "name": "unit29",
+  "version": "1.0.0",
+  "description": "Node Intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hailaix/unit29.git"
+  },
+  "author": "Nicholas Hower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hailaix/unit29/issues"
+  },
+  "homepage": "https://github.com/Hailaix/unit29#readme"
+}
